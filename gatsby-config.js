@@ -1,6 +1,31 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Frithir Software Development',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: [
+    'gatsby-plugin-react-helmet',
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: `white`,
+        // Disable the loading spinner.
+        showSpinner: false,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'Frithir Software Development',
+        short_name: 'Frithir',
+        start_url: '/',
+        background_color: '#555',
+        theme_color: '#555',
+        display: 'standalone',
+        icon: '/static/favicon-128.png', // This path is relative to the root of the site.
+      },
+    },
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-sitemap`,
+  ],
 }

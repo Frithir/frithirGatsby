@@ -3,7 +3,7 @@ import React from 'react'
 const ImageRow = ({ count = 7, collectionId, alt }) => {
   const images = Array.from(Array(count)).map(
     (num, i) =>
-      `https://source.unsplash.com/collection/${collectionId}/100${i}x1000`
+      `https://source.unsplash.com/collection/${collectionId}/50${i}x500`
   )
   return (
     <section className="section gallery">

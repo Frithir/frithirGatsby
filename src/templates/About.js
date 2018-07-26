@@ -7,7 +7,7 @@ export default () => (
         <p>
           <strong>WHAT I DO</strong>
         </p>
-        <div class="black">
+        <div className="black">
           <ul>
             <li>
               <p>

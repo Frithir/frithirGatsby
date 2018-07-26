@@ -5,7 +5,11 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "next",
+    "gatsby-plugin-manifest": "^1.0.27",
+    "gatsby-plugin-nprogress": "^1.0.14",
+    "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-sitemap": "^1.2.25",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0"
