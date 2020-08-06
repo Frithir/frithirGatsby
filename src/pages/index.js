@@ -18,7 +18,7 @@ const IndexPage = () => (
     <Welcome />
     <ImageRow collectionId="488" alt="Learning, reading, up skilling" />
     <About />
-    <ImageRow collectionId="430468" alt="Office, space" />
+    <ImageRow collectionId="465326" alt="Office, space" />
     <Experience />
     <ImageRow collectionId="397770" alt="Coffee time, meetings, disscussion" />
     <CoffeeTime />
