@@ -5,45 +5,46 @@ export default () => (
     <div className="container">
       <div className="black">
         <p>
-          <strong>WHAT I DO</strong>
+          <strong>What I do</strong>
         </p>
         <div className="black">
           <ul>
             <li>
               <p>
-                <strong>FRONT-END</strong>
+                <strong>Frontend</strong>
               </p>
-              JAVASCRIPT, ES6, GATSBY, REACT, GULP, HTML5, CSS3
+              Javascript, Electron, React Native, Redux-Thunk, React, Redux,
+              VueJS
             </li>
             <li>
               <p>
-                <strong>BACK-END</strong>
+                <strong>Backend</strong>
               </p>
-              NODEJS, GRAPHQL, PHP, API'S, SYS-ADMIN, LETSENCRYPT
+              Nodejs, Graphql, Php, Wordpress, Mysql, Mongodb
             </li>
             <li>
               <p>
                 <strong>CMS</strong>
               </p>
-              NETLIFY-CMS, CONTENTFUL & MORE...
+              Graph-cms, Netlify-cms, Contentful, Wordpress & More...
             </li>
             <li>
               <p>
                 <strong>APPS</strong>
               </p>
-              PROGRESSIVE WEB APPS, REACT, FIREBASE
+              React Native, Expo, ESA, Progressive Web Apps
             </li>
             <li>
               <p>
-                <strong>CLOUD</strong>
+                <strong>Cloud</strong>
               </p>
-              AWS, GOOGLE, FIREBASE, FTTT, ZAPIER
+              CI/CD automation, Netlify, Bitbucket Pipelines, AWS, Zapier
             </li>
             <li>
               <p>
-                <strong>E-COMMERCE</strong>
+                <strong>E-Commerce</strong>
               </p>
-              STRIPE, SHOPIFY & MORE...
+              Stripe, Woocommence & More...
             </li>
           </ul>
         </div>

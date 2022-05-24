@@ -4,7 +4,7 @@ export default () => (
   <div className="section cascade bg-pink">
     <div className="container">
       <p className="black">
-        I DRINK COFFEE, WRITE CODE AND IMPROVE MY DEVELOPMENT SKILLS EVERY DAY.
+        I drink coffee, write code and improve my development skills every day
       </p>
     </div>
   </div>

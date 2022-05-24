@@ -5,10 +5,10 @@ import React from 'react'
 export default () => (
   <div className="section cascade contact">
     <div className="container white">
-      <p className="">ALWAYS INTERESTED IN COOL IDEAS.</p>
+      <p className="">Always interested in cool ideas.</p>
       <p>
-        DO YOU HAVE A DIGITAL PROJECT?{' '}
-        <a href="https://github.com/Firthir">LETS TALK</a>
+        Do you have a digital project?{' '}
+        <a href="https://github.com/Firthir">Lets talk</a>
       </p>
     </div>
     {/* <StyledForm /> */}
