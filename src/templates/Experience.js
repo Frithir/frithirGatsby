@@ -4,7 +4,7 @@ export default () => (
   <div className="section cascade bg-cream">
     <div className="container">
       <p className="black" style={{ width: '600px' }}>
-        With more than 10 years of experience in digital development & hundreds
+        With more than 15 years of experience in digital development & hundreds
         of websites developed.
       </p>
       <p>
