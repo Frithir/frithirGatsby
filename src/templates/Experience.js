@@ -3,11 +3,11 @@ import React from 'react'
 export default () => (
   <div className="section cascade bg-cream">
     <div className="container">
-      <p className="black">
+      <p className="black" style={{ width: '600px' }}>
         With more than 10 years of experience in digital development & hundreds
-        <br />
         of websites developed.
-        <br />
+      </p>
+      <p>
         <span className="orange">I write code that works™</span>
       </p>
     </div>
